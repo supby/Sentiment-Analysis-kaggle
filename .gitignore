@@ -1,0 +1,4 @@
+data/
+fann/src/kgl_snta_fann/bin/
+fann/src/kgl_snta_fann/obj/
+*.pyc

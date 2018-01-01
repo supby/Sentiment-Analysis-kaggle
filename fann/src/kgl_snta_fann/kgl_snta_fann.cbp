@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="kgl_snta_fann" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/kgl_snta_fann" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/kgl_snta_fann" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-fopenmp" />
+					<Add directory="include" />
+					<Add directory="/usr/local/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="/usr/lib/gcc/x86_64-linux-gnu/4.8.2/libgomp.so" />
+					<Add library="/usr/local/lib/libdoublefann.so" />
+					<Add library="/usr/local/lib/libfann.so" />
+					<Add library="/usr/local/lib/libfixedfann.so" />
+					<Add library="/usr/local/lib/libfloatfann.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/libpthread.so" />
+					<Add library="/usr/lib/x86_64-linux-gnu/libc.so" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/BagWordsGen.h" />
+		<Unit filename="include/FeatureExtractor.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/BagWordsGen.cpp" />
+		<Unit filename="src/FeatureExtractor.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

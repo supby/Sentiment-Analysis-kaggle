@@ -1,0 +1,421 @@
+# depslib dependency file v1.0
+1400271546 source:/home/andrej/Dropbox/prj/kaggle/Sentiment Analysis/fann/src/kgl_snta_fann/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"parallel_fann.h"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"parallel_fann.h"
+	"floatfann.h"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+
+1400324394 tractor.h"
+
+1400241042 source:/home/andrej/Dropbox/prj/kaggle/Sentiment Analysis/fann/src/kgl_snta_fann/src/BagWordsGen.cpp
+	"BagWordsGen.h"
+	"BagWordsGen.h"
+	"BagWordsGen.h"
+	"BagWordsGen.h"
+
+1400324394 en.h"
+
+1399895907 /home/andrej/Dropbox/prj/kaggle/Sentiment Analysis/fann/src/kgl_snta_fann/include/BagWordsGen.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+
+1400324394 l>
+
+1400250063 /home/andrej/Dropbox/prj/kaggle/Sentiment Analysis/fann/src/kgl_snta_fann/include/FeatureExtractor.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+
+1400325216 
+
+1400250252 source:/home/andrej/Dropbox/prj/kaggle/Sentiment Analysis/fann/src/kgl_snta_fann/src/FeatureExtractor.cpp
+	"FeatureExtractor.h"
+	"FeatureExtractor.h"
+	"FeatureExtractor.h"
+	"FeatureExtractor.h"
+
+1400250166 source:e:\dropbox\dropbox\prj\kaggle\sentiment analysis\fann\src\kgl_snta_fann\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann.h
+	"fixedfann.h"
+	"floatfann.h"
+	<sys/time.h>
+	<windows.h>
+	"fann_error.h"
+	"fann_activation.h"
+	"fann_data.h"
+	"fann_internal.h"
+	"fann_train.h"
+	"fann_cascade.h"
+	"fann_io.h"
+
+1400325216 "
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fixedfann.h
+	"fann.h"
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\floatfann.h
+	"fann.h"
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_error.h
+	<stdio.h>
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_activation.h
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_data.h
+	<stdio.h>
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_internal.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fann_data.h"
+
+1400325216 .h"
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_train.h
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_cascade.h
+
+1327383100 f:\installs\libs\fann-2.2.0-source\src\include\fann_io.h
+
+1399895907 e:\dropbox\dropbox\prj\kaggle\sentiment analysis\fann\src\kgl_snta_fann\include\bagwordsgen.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+
+1400250063 e:\dropbox\dropbox\prj\kaggle\sentiment analysis\fann\src\kgl_snta_fann\include\featureextractor.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+
+1400241042 source:e:\dropbox\dropbox\prj\kaggle\sentiment analysis\fann\src\kgl_snta_fann\src\bagwordsgen.cpp
+	"BagWordsGen.h"
+
+1400250252 source:e:\dropbox\dropbox\prj\kaggle\sentiment analysis\fann\src\kgl_snta_fann\src\featureextractor.cpp
+	"FeatureExtractor.h"
+
+1400445855 source:d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"floatfann.h"
+	"parallel_fann.h"
+	"src/parallel_fann.c"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+
+1400325216 d:\myprojects\fann-code\src\include\fann.h
+	"fixedfann.h"
+	"floatfann.h"
+	<sys/time.h>
+	<windows.h>
+	"fann_error.h"
+	"fann_activation.h"
+	"fann_data.h"
+	"fann_internal.h"
+	"fann_train.h"
+	"fann_cascade.h"
+	"fann_io.h"
+
+1400325216 d:\myprojects\fann-code\src\include\fixedfann.h
+	"fann.h"
+
+1400325216 d:\myprojects\fann-code\src\include\floatfann.h
+	"fann.h"
+
+1400325216 d:\myprojects\fann-code\src\include\fann_error.h
+	<stdio.h>
+
+1400325216 d:\myprojects\fann-code\src\include\fann_activation.h
+
+1400325216 d:\myprojects\fann-code\src\include\fann_data.h
+	<stdio.h>
+
+1400325216 d:\myprojects\fann-code\src\include\fann_internal.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fann_data.h"
+
+1400325216 d:\myprojects\fann-code\src\include\fann_train.h
+
+1400325216 d:\myprojects\fann-code\src\include\fann_cascade.h
+
+1400325216 d:\myprojects\fann-code\src\include\fann_io.h
+
+1400324394 d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\include\bagwordsgen.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+
+1400324394 d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\include\featureextractor.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+
+1400324394 source:d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\src\bagwordsgen.cpp
+	"BagWordsGen.h"
+
+1400324394 source:d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\src\featureextractor.cpp
+	"FeatureExtractor.h"
+
+1400446164 source:d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\src\parallel_fann.c
+	"parallel_fann.h"
+	<omp.h>
+
+1400446164 fann.h"
+
+1400325216 d:\myprojects\fann-code\src\include\parallel_fann.h
+	<fann.h>
+
+1380993356 d:\mingw\lib\gcc\mingw32\4.8.1\include\omp.h
+
+1400446164 d:\myprojects\kaggl_sent\fann\src\kgl_snta_fann\src\parallel_fann.c
+	"parallel_fann.h"
+	<omp.h>
+
+1398029114 source:/home/andrej/prj/fann-code/src/parallel_fann.c
+	"parallel_fann.h"
+	<omp.h>
+
+1398799882 /usr/local/include/parallel_fann.h
+	<fann.h>
+
+1398799882 /usr/local/include/fann.h
+	"fixedfann.h"
+	"floatfann.h"
+	<sys/time.h>
+	<windows.h>
+	"fann_error.h"
+	"fann_activation.h"
+	"fann_data.h"
+	"fann_internal.h"
+	"fann_train.h"
+	"fann_cascade.h"
+	"fann_io.h"
+
+1398799882 /usr/local/include/fixedfann.h
+	"fann.h"
+
+1398799882 /usr/local/include/floatfann.h
+	"fann.h"
+
+1398799882 /usr/local/include/fann_error.h
+	<stdio.h>
+
+1398799882 /usr/local/include/fann_activation.h
+
+1398799882 /usr/local/include/fann_data.h
+	<stdio.h>
+
+1398799882 /usr/local/include/fann_internal.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fann_data.h"
+
+1398799882 /usr/local/include/fann_train.h
+
+1398799882 /usr/local/include/fann_cascade.h
+
+1398799882 /usr/local/include/fann_io.h
+
+1398029114 source:/home/andrej/prj/fann-code/src/parallel_fann_cpp.cpp
+	"parallel_fann.hpp"
+	<omp.h>
+
+1398029114 /home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/include/parallel_fann.hpp
+	<omp.h>
+	<vector>
+	<fann.h>
+
+1402598304 source:/home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"fann.h"
+	"floatfann.h"
+	"parallel_fann.h"
+	"src/parallel_fann.c"
+	"BagWordsGen.h"
+	"FeatureExtractor.h"
+
+1398029114 /home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/src/parallel_fann.c
+	"parallel_fann.h"
+	<omp.h>
+
+1399895907 /home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/include/BagWordsGen.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<cctype>
+	<functional>
+
+1400250063 /home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/include/FeatureExtractor.h
+	<vector>
+	<string>
+	<map>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<fstream>
+
+1400241042 source:/home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/src/BagWordsGen.cpp
+	"BagWordsGen.h"
+
+1400250252 source:/home/andrej/prj/kaggl_sent/fann/src/kgl_snta_fann/src/FeatureExtractor.cpp
+	"FeatureExtractor.h"
+
