@@ -5,8 +5,8 @@ from boto.emr.step import InstallPigStep
 from boto.emr.step import PigStep
 import threading
 
-access_key_id = 'AKIAI4RIDIOEBKTO622Q'
-secret_key = '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'
+access_key_id = <access key id>
+secret_key = <secret key>
 
 pig_file = 's3://kagglesenta/pig/convert2fann.pig'
 INPUT = 's3://kagglesenta/train.tsv'
